@@ -1,3 +1,6 @@
+# Not Maintained
+I have not worked with Django in a long time & have no need for this project myself any longer. If you wish to take up the responsibility, please email me at info@btfrost.com.
+
 # django-fontawesome-5
 
 A utility for using icons in models, forms, and templates.
