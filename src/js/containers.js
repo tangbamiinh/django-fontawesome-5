@@ -20,6 +20,7 @@ class Container {
   }
 
   onMouseDown(vm, event) {
+    console.log("onMouseDown", event);
     if (event.target !== vm.element) {
       vm.input.onMouseDown(event);
     }

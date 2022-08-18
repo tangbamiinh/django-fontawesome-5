@@ -19,7 +19,7 @@ class IconWidget(forms.Select):
     class Media:
 
         js = (
-            'fontawesome_5/js/django-fontawesome.js',
+            'fontawesome_5/js/all.min.js',
         )
 
         css = {
